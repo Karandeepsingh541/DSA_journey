@@ -13,7 +13,7 @@ public class sumtarget {
                     found=i;
                     //found_2=j;
                     m = j;
-                    System.out.println("there are two numbers whose sum is 2 and they are on index " + found + "and " + m );
+                    System.out.println("there are two numbers whose sum is 2 and they are on indexd " + found + "and " + m );
                     System.out.println("those two no are "+ x[found] +"and " + x[m]);
 
                 }
