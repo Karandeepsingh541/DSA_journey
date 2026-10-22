@@ -5,19 +5,22 @@ public class sumtarget {
         int [] x = { 1,5,8,-3,1};
         int target = 2 ;
         int found = -1;
-        int found_2 = -2;
+        //int found_2 = -2;
+        int m=-1;
         for(int i = 0 ; i < x.length;i++){
-            for (int j =1+i; j <x.length;j++){
+            for (int j =i+1; j <x.length;j++){
                 if(x[i]+x[j]==target){
                     found=i;
-                    found_2=j;
+                    //found_2=j;
+                    m = j;
+                    System.out.println("there are two numbers whose sum is 2 and they are on index " + found + "and " + m );
+                    System.out.println("those two no are "+ x[found] +"and " + x[m]);
+
                 }
 
 
             }
-
         }
-        if(found!=-1 && found_2!=-2) System.out.println("we have two numbers whose sum is 2 and tehy are " + found + "and "+ found_2);
-        else System.out.println(" f off");
+
     }
 }
