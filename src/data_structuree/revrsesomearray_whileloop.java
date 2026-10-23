@@ -5,7 +5,7 @@ public class revrsesomearray_whileloop {
         int [] arr = {1,4,5,89,87,65,45,6,7,8};
         int n = arr.length;
         int i = 2;
-        int j = n-2-i;
+        int j = 5;
         while(i<j){
             int temp = arr[i];
             arr[i]=arr[j];

@@ -16,7 +16,7 @@ public class min_array {
 
         System.out.println();
         for (int i = 0; i < n; i++) {
-            if (karan[i] < karan[0]) {
+            if (karan[i] < min) {
                 min = karan[i];
             }
 
