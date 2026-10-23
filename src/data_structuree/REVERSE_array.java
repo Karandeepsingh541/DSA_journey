@@ -17,8 +17,8 @@ public class REVERSE_array {
             i++;
             j--;
         }
-        for (int num : arr){
-            System.out.print(num);
+        for (int numo: arr){
+            System.out.print(numo);
         }
     }
 }
