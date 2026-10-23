@@ -2,7 +2,7 @@ package data_structuree;
 
 public class sumtarget {
     static void main() {
-        int [] x = { 1,5,8,-3,1};
+        int [] x = { 1,5,8,-3};
         int target = 2 ;
         int found = -1;
         //int found_2 = -2;
