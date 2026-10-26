@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/data_structure/aaray_practise/aaray_practise.iml" filepath="$PROJECT_DIR$/data_structure/aaray_practise/aaray_practise.iml" />
       <module fileurl="file://$PROJECT_DIR$/data_structure/data_structure.iml" filepath="$PROJECT_DIR$/data_structure/data_structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsa_practise/dsa_practise.iml" filepath="$PROJECT_DIR$/dsa_practise/dsa_practise.iml" />
       <module fileurl="file://$PROJECT_DIR$/karan_java_start1.iml" filepath="$PROJECT_DIR$/karan_java_start1.iml" />
       <module fileurl="file://$PROJECT_DIR$/learning-journey/learning-journey.iml" filepath="$PROJECT_DIR$/learning-journey/learning-journey.iml" />
     </modules>
